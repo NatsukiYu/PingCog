@@ -5,7 +5,7 @@ with open('requirements.txt', 'r') as fp:
 
 setup(
     name='PingCog',
-    version='1.0.0',
+    version='1.0.1',
     license='MIT',
     description='Slash command example',
     author='@natsuki__yu',
